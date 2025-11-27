@@ -501,6 +501,7 @@
         "item_aeUnMY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_12.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -513,6 +514,7 @@
         "item_jnCczY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_13.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -525,6 +527,7 @@
         "item_r39bDG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_14.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -537,6 +540,7 @@
         "item_T3kPge": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_15.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
