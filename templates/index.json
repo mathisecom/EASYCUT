@@ -55,19 +55,13 @@
         "liquid_ayckTY": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"product-info__liquid\"> <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\"> <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\"> <span class=\"text-size\">Rated <b>4.8/5</b> based on 6,380 reviews</span> </a> </div> </div> </div> </div> </div> </div> </div>"
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"product-info__liquid\"> <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\"> <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\"> <span class=\"text-size\">Rated <b>4.8/5</b> based on 3,380 reviews</span> </a> </div> </div> </div> </div> </div> </div> </div>"
           }
         },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
           }
         },
         "liquid_qaPwkU": {
@@ -123,7 +117,6 @@
       "block_order": [
         "liquid_ayckTY",
         "title",
-        "price",
         "liquid_qaPwkU",
         "buy-buttons",
         "liquid_qCWHYp",
