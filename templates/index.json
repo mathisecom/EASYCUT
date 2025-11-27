@@ -726,6 +726,13 @@
             "title": "Can debris remain inside the pipe?",
             "content": "<p>No. The central rod naturally guides the shavings outward during rotation. Deburring occurs cleanly, without residue or obstruction inside the pipe.</p>"
           }
+        },
+        "item_XyKAaW": {
+          "type": "item",
+          "settings": {
+            "title": "Can it be used in hard-to-reach areas?",
+            "content": "<p>Yes.The deburrer comes with an angle adapter, allowing easy work in corners, under sinks, or behind furniture without dismantling the installation.</p>"
+          }
         }
       },
       "block_order": [
@@ -737,7 +744,8 @@
         "item_gGLNHj",
         "item_bdrjJc",
         "item_cM7gQz",
-        "item_XRmyt8"
+        "item_XRmyt8",
+        "item_XyKAaW"
       ],
       "settings": {
         "full_width": false,
