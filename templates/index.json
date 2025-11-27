@@ -228,10 +228,12 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/202511271423.mp4",
+        "mobile_video": "shopify://files/videos/202511271423.mp4",
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_q8Aw77": {
