@@ -731,7 +731,14 @@
           "type": "item",
           "settings": {
             "title": "Can it be used in hard-to-reach areas?",
-            "content": "<p>Yes.The deburrer comes with an angle adapter, allowing easy work in corners, under sinks, or behind furniture without dismantling the installation.</p>"
+            "content": "<p>Yes. The deburrer comes with an angle adapter, allowing easy work in corners, under sinks, or behind furniture without dismantling the installation.</p>"
+          }
+        },
+        "item_WnNdjH": {
+          "type": "item",
+          "settings": {
+            "title": "Does the tool also work on large diameters?",
+            "content": "<p>Absolutely. The entire EASYCUT PRO range uses three carbide blades designed for faster, smoother cutting. This design makes the tool just as effective on large diameters, up to 100 mm, with no extra effort.</p>"
           }
         }
       },
@@ -745,7 +752,8 @@
         "item_bdrjJc",
         "item_cM7gQz",
         "item_XRmyt8",
-        "item_XyKAaW"
+        "item_XyKAaW",
+        "item_WnNdjH"
       ],
       "settings": {
         "full_width": false,
