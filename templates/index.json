@@ -667,22 +667,22 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "What exactly is this tool used for?",
+            "content": "<p>It allows you to easily remove an already-glued PVC fitting using a drill, with no heat gun or unnecessary breakage.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Which pipe diameters is it compatible with?",
+            "content": "<p>The PVC reamer is designed specifically for standard French diameters: 32, 40, 50, and 100 mm.<br/><br/>It is intended for drainage PVC only, not pressure PVC.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Can I use it with any drill/driver?",
+            "content": "<p>Yes, it fits all standard drills thanks to its hexagonal shank.</p>"
           }
         }
       },
