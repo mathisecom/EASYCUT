@@ -362,6 +362,7 @@
         },
         "collapsible_text_JLMrmR": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
