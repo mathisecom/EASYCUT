@@ -285,9 +285,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "",
+        "subheading": "THEY TESTED IT AND APPROVED IT.",
         "title": "",
-        "content": "<h4>Over 5,000 Hours of Work Saved</h4>",
+        "content": "<h4><strong>Over 5,000 Hours of Work Saved</strong></h4>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
