@@ -611,7 +611,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "John S.",
-            "title": "Testimonial 1",
+            "title": "Surprisingly efficient!",
             "content": "<p>Removes a fitting in seconds with a clean finish. Saves me a lot of time on every job.</p>"
           }
         },
@@ -622,7 +622,7 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
+            "title": "Very solid tool",
             "content": "<p>The blades cut perfectly and barely wear out. Much better than using a heat gun.</p>"
           }
         },
@@ -633,7 +633,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
+            "title": "Works with all my drills.",
             "content": "<p>I use it every day. Super simple and fast. A must-have for any plumber.</p>"
           }
         },
@@ -644,7 +644,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
+            "title": "No more burnt fittings!",
             "content": "<p>The cut is clean and smooth, with no heat or smell. Much cleaner than the old methods.</p>"
           }
         },
@@ -655,7 +655,7 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
+            "title": "Handles large diameters easily.",
             "content": "<p>Tested on 4\", and it worked perfectly. Highly recommend!</p>"
           }
         }
