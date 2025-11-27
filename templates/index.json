@@ -157,6 +157,8 @@
         "image_Rw3TAA": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_6_5dc0d2f4-1f8b-4251-bfad-f42163a7a091.jpg",
+            "mobile_image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_6.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
