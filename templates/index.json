@@ -705,6 +705,20 @@
             "title": "What are the advantages compared to a heat gun?",
             "content": "<ul><li>Faster </li><li>Safer (no risk of burns or PVC damage)</li><li>Cleaner (smooth and consistent result)</li><li>No need for extension cords or heat</li></ul>"
           }
+        },
+        "item_bdrjJc": {
+          "type": "item",
+          "settings": {
+            "title": "Is the product certified?",
+            "content": "<p>Yes, it is RoHS Compliant, SGS-tested, CE-approved, and made with ISO/GB-T certified materials.</p>"
+          }
+        },
+        "item_cM7gQz": {
+          "type": "item",
+          "settings": {
+            "title": "Is the deburrer dangerous?",
+            "content": "<p>No. The EASYCUT PRO deburrer has an internal insert that adapts to the inside diameter of the pipe. This part fits perfectly inside the PVC and prevents slipping or misalignment. The tool remains stable and secure even at high speed.</p>"
+          }
         }
       },
       "block_order": [
@@ -713,7 +727,9 @@
         "166442457738b23caf-2",
         "item_Mg9dCN",
         "item_DqKym3",
-        "item_gGLNHj"
+        "item_gGLNHj",
+        "item_bdrjJc",
+        "item_cM7gQz"
       ],
       "settings": {
         "full_width": false,
