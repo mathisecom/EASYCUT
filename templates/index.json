@@ -52,6 +52,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_ayckTY": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -89,14 +95,37 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_JLMrmR": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_iLKAFL": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
+        "liquid_ayckTY",
         "title",
         "price",
         "variant-picker",
         "quantity-selector",
-        "buy-buttons"
+        "buy-buttons",
+        "collapsible_text_JLMrmR",
+        "collapsible_text_iLKAFL"
       ],
       "settings": {
         "full_width": false,
