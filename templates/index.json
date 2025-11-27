@@ -719,6 +719,13 @@
             "title": "Is the deburrer dangerous?",
             "content": "<p>No. The EASYCUT PRO deburrer has an internal insert that adapts to the inside diameter of the pipe. This part fits perfectly inside the PVC and prevents slipping or misalignment. The tool remains stable and secure even at high speed.</p>"
           }
+        },
+        "item_XRmyt8": {
+          "type": "item",
+          "settings": {
+            "title": "Can debris remain inside the pipe?",
+            "content": "<p>No. The central rod naturally guides the shavings outward during rotation. Deburring occurs cleanly, without residue or obstruction inside the pipe.</p>"
+          }
         }
       },
       "block_order": [
@@ -729,7 +736,8 @@
         "item_DqKym3",
         "item_gGLNHj",
         "item_bdrjJc",
-        "item_cM7gQz"
+        "item_cM7gQz",
+        "item_XRmyt8"
       ],
       "settings": {
         "full_width": false,
