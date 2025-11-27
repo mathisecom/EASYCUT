@@ -461,6 +461,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_KnrkQU": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Any Additional Questions?",
+        "content": "<p>Write to us using the form below, and we will get back to you as soon as possible.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -472,6 +493,7 @@
     "video_RYUkaq",
     "multi_column_q8Aw77",
     "featured-product",
-    "faq"
+    "faq",
+    "contact_KnrkQU"
   ]
 }
