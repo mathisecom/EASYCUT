@@ -253,6 +253,7 @@
         "item_74h4XW": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/202511271206 (3).mp4",
             "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
