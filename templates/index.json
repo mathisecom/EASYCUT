@@ -684,12 +684,20 @@
             "title": "Can I use it with any drill/driver?",
             "content": "<p>Yes, it fits all standard drills thanks to its hexagonal shank.</p>"
           }
+        },
+        "item_Mg9dCN": {
+          "type": "item",
+          "settings": {
+            "title": "Is it durable? Do the blades wear out quickly?",
+            "content": "<p>The tool is made from high-quality aluminum alloy with ISO-certified carbide inserts.<br/><br/>The blades are long-lasting and can be rotated up to 4 times before being replaced if needed.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_Mg9dCN"
       ],
       "settings": {
         "full_width": false,
