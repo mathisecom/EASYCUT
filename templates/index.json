@@ -318,6 +318,32 @@
         "text_color": ""
       }
     },
+    "rich_text_jzMazK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PgJc6A": {
+          "type": "heading",
+          "settings": {
+            "text": "Say Goodbye to Glued Fittings in Seconds!",
+            "heading_tag": "h1",
+            "text_color": "#1c3d5a",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_PgJc6A"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -501,6 +527,7 @@
     "rich_text_jWzVki",
     "video_RYUkaq",
     "multi_column_q8Aw77",
+    "rich_text_jzMazK",
     "featured-product",
     "faq",
     "contact_KnrkQU"
