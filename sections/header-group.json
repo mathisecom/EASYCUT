@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "✦ Black Friday Sale ✦",
             "url": ""
           }
         },
         "message_7DAWeM": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Free Shipping",
             "url": ""
           }
         }
