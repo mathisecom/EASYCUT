@@ -447,6 +447,7 @@
     },
     "scrolling_text_PKytJJ": {
       "type": "scrolling-text",
+      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
@@ -466,9 +467,8 @@
       "blocks": {
         "subheading_VjHqQp": {
           "type": "subheading",
-          "disabled": true,
           "settings": {
-            "text": "Subheading"
+            "text": "THEY SAY IT BETTER THAN WE DO"
           }
         },
         "heading_pmUnfP": {
@@ -493,6 +493,80 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_link_blocks_VNt8c7": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_aeUnMY": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_jnCczY": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_r39bDG": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_T3kPge": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_aeUnMY",
+        "item_jnCczY",
+        "item_r39bDG",
+        "item_T3kPge"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "testimonials_fV7JFh": {
@@ -641,6 +715,7 @@
     "featured-product",
     "scrolling_text_PKytJJ",
     "rich_text_bNbjDF",
+    "image_link_blocks_VNt8c7",
     "testimonials_fV7JFh",
     "faq",
     "contact_KnrkQU"
