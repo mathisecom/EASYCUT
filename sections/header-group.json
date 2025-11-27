@@ -20,10 +20,18 @@
             "text": "Announce something here",
             "url": ""
           }
+        },
+        "message_7DAWeM": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_7DAWeM"
       ],
       "settings": {
         "enable_sticky": false,
