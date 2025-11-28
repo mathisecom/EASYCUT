@@ -674,13 +674,45 @@
             "title": "Is it durable? Do the blades wear out quickly?",
             "content": "<p>The tool is made from high-quality aluminum alloy with ISO-certified carbide inserts.<br/><br/>The blades are long-lasting and can be rotated up to 4 times before being replaced if needed.</p>"
           }
+        },
+        "item_gCaEG7": {
+          "type": "item",
+          "settings": {
+            "title": "Is it difficult to use?",
+            "content": "<p>No, it’s very simple: attach it to your drill, place it inside the fitting, and let it work.<br/><br/>Within seconds, the fitting is cleanly removed.</p>"
+          }
+        },
+        "item_zr3emD": {
+          "type": "item",
+          "settings": {
+            "title": "What are the advantages compared to a heat gun?",
+            "content": "<ul><li>Faster<br/></li><li>Safer (no risk of burns or PVC damage)<br/></li><li>Cleaner (smooth and consistent result)<br/></li><li>No need for extension cords or heat</li></ul>"
+          }
+        },
+        "item_CwUezK": {
+          "type": "item",
+          "settings": {
+            "title": "Is the product certified?",
+            "content": "<p>Yes, it is RoHS Compliant, SGS-tested, CE-approved, and made with ISO/GB-T certified materials.</p>"
+          }
+        },
+        "item_tydQGK": {
+          "type": "item",
+          "settings": {
+            "title": "Is the deburrer dangerous?",
+            "content": "<p>No. EASYCUT PRO deburrer has an internal insert that adapts to the inside diameter of the pipe. This part fits perfectly inside the PVC and prevents slipping or misalignment. The tool remains stable and secure even at high speed.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_XiGm7d"
+        "item_XiGm7d",
+        "item_gCaEG7",
+        "item_zr3emD",
+        "item_CwUezK",
+        "item_tydQGK"
       ],
       "settings": {
         "full_width": false,
