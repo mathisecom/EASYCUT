@@ -765,9 +765,9 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
-        "content": "",
+        "subheading": "",
+        "title": "One more question?",
+        "content": "<p>Our team is available 24/7 to assist you.</p>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
