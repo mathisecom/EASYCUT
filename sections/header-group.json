@@ -27,11 +27,19 @@
             "text": "Free Shipping",
             "url": ""
           }
+        },
+        "message_BdJRHH": {
+          "type": "message",
+          "settings": {
+            "text": "3,000+ Satisfied Customers",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_7DAWeM"
+        "message_7DAWeM",
+        "message_BdJRHH"
       ],
       "settings": {
         "enable_sticky": false,
