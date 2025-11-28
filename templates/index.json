@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PC_QLFWOOD_3.jpg",
-            "mobile_image": "shopify://shop_images/BANNER_MOBILE_20.jpg",
+            "image": "shopify://shop_images/PC__2.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_19.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -155,6 +155,8 @@
         "image_Rw3TAA": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_7_712ca512-7c35-4d68-a279-269c1747970c.jpg",
+            "mobile_image": "shopify://shop_images/Copie_de_Section_benefice_HR_new_desktop_7_712ca512-7c35-4d68-a279-269c1747970c.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -230,10 +232,11 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
+        "mobile_video": "shopify://files/videos/202511271423.mp4",
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "multi_column_q8Aw77": {
