@@ -127,7 +127,7 @@
         "heading_yit6GN": {
           "type": "heading",
           "settings": {
-            "text": "Why Choose EasyCut PRO?",
+            "text": "Warum EasyCut PRO wählen?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -193,13 +193,13 @@
         "subheading_bbCDDb": {
           "type": "subheading",
           "settings": {
-            "text": "BEFORE/AFTER"
+            "text": "VORHER/NACHHER"
           }
         },
         "heading_qc8GJ4": {
           "type": "heading",
           "settings": {
-            "text": "See the Difference!",
+            "text": "Sehen Sie den Unterschied!",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -285,9 +285,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "THEY TESTED IT AND APPROVED IT.",
+        "subheading": "SIE HABEN ES GETESTET UND GENEHMIGT.",
         "title": "",
-        "content": "<h4><strong>Over 5,000 Hours of Work Saved</strong></h4>",
+        "content": "<h6><strong>Über 5.000 Arbeitsstunden eingespart</strong></h6>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
