@@ -82,24 +82,28 @@
         "image_3imJxa": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/images.png",
             "url": ""
           }
         },
         "image_W7jfhP": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Mayfair-Plumbers-Horizontal-Aqua.svg",
             "url": ""
           }
         },
         "image_6V4MQL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/400_67e05999aa68a.webp",
             "url": ""
           }
         },
         "image_gYtUNL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo-main.png",
             "url": ""
           }
         }
@@ -121,7 +125,7 @@
         "heading_size_mobile": 12,
         "heading_height": 130,
         "scrolling_velocity": 30,
-        "scrolling_velocity_mobile": 30,
+        "scrolling_velocity_mobile": 18,
         "scrolling_direction": "left",
         "pause_hover": false,
         "scrolling_gap": 70,
