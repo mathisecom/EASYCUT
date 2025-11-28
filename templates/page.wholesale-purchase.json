@@ -19,26 +19,26 @@
     "contact_nrzQaH": {
       "type": "contact",
       "blocks": {
-        "text_EjaHMd": {
-          "type": "text",
-          "settings": {
-            "title": "Custom field",
-            "use_long_text": false,
-            "required": false
-          }
-        },
         "text_WWifVP": {
           "type": "text",
           "settings": {
-            "title": "Custom field",
+            "title": "Quantity Needed",
             "use_long_text": false,
-            "required": false
+            "required": true
+          }
+        },
+        "text_x8NwMY": {
+          "type": "text",
+          "settings": {
+            "title": "Company Name",
+            "use_long_text": false,
+            "required": true
           }
         }
       },
       "block_order": [
-        "text_EjaHMd",
-        "text_WWifVP"
+        "text_WWifVP",
+        "text_x8NwMY"
       ],
       "name": "Contact form",
       "settings": {
