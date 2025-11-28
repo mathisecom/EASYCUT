@@ -372,12 +372,11 @@
         },
         "collapsible_text_JLMrmR": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
             "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<p><strong>Our team is available to answer your questions 7 days a week.</strong></p><p>You can contact us by email during the following hours: 9 AM – 5 PM, Monday through Sunday.</p><p><strong>hello@easycutpro.com</strong></p><p>Don’t hesitate to get in touch.</p>",
             "page": ""
           }
         },
