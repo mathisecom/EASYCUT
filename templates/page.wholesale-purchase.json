@@ -52,6 +52,13 @@
             "image": "shopify://shop_images/logo-main.png",
             "url": ""
           }
+        },
+        "image_WcAGQM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/heatme_new_logo_website_sml-2.png",
+            "url": ""
+          }
         }
       },
       "block_order": [
@@ -59,7 +66,8 @@
         "image_W7jfhP",
         "image_6V4MQL",
         "image_fhNz98",
-        "image_gYtUNL"
+        "image_gYtUNL",
+        "image_WcAGQM"
       ],
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
