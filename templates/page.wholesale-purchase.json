@@ -11,10 +11,56 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "contact_nrzQaH": {
+      "type": "contact",
+      "blocks": {
+        "text_EjaHMd": {
+          "type": "text",
+          "settings": {
+            "title": "Custom field",
+            "use_long_text": false,
+            "required": false
+          }
+        },
+        "text_WWifVP": {
+          "type": "text",
+          "settings": {
+            "title": "Custom field",
+            "use_long_text": false,
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "text_EjaHMd",
+        "text_WWifVP"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "contact_nrzQaH"
   ]
 }
