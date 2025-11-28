@@ -695,6 +695,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_HMGTxr": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any question?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -709,6 +730,7 @@
     "rich_text_TFHLVQ",
     "image_link_blocks_Gg8yD3",
     "testimonials_AxT4GW",
-    "faq"
+    "faq",
+    "contact_HMGTxr"
   ]
 }
