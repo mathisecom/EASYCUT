@@ -570,8 +570,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Surprisingly efficient!",
+            "content": "<p>Removes a fitting in seconds with a clean finish. Saves me a lot of time on every job.</p>"
           }
         },
         "testimonial_UDzpNp": {
@@ -580,9 +580,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Marc U.",
+            "title": "Very solid tool.",
+            "content": "<p>The blades cut perfectly and barely wear out. Much better than using a heat gun.</p>"
           }
         },
         "testimonial_LjgfPd": {
@@ -591,16 +591,40 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Julien A.",
+            "title": "Works with all my drills.",
+            "content": "<p>I use it every day. Super simple and fast. A must-have for any plumber.</p>"
+          }
+        },
+        "testimonial_Fg99PM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Carl D.",
+            "title": "No more burnt fittings!",
+            "content": "<p>The cut is clean and smooth, with no heat or smell. Much cleaner than the old methods.</p>"
+          }
+        },
+        "testimonial_4Drctz": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Carl D.",
+            "title": "Handles large diameters easily.",
+            "content": "<p>Tested on 100mm, and it worked perfectly. Highly recommend!</p>"
           }
         }
       },
       "block_order": [
         "testimonial_dL4T8z",
         "testimonial_UDzpNp",
-        "testimonial_LjgfPd"
+        "testimonial_LjgfPd",
+        "testimonial_Fg99PM",
+        "testimonial_4Drctz"
       ],
       "name": "Testimonials",
       "settings": {
