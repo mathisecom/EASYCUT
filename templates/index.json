@@ -313,7 +313,7 @@
         "text_teeLiG": {
           "type": "text",
           "settings": {
-            "text": "<p>EasyCut PRO</p>"
+            "text": "<h2>EasyCut PRO</h2>"
           }
         },
         "liquid_qaPwkU": {
@@ -347,6 +347,7 @@
         },
         "collapsible_text_JLMrmR": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
