@@ -657,7 +657,7 @@
           "type": "item",
           "settings": {
             "title": "Which pipe diameters is it compatible with?",
-            "content": "<p>The PVC reamer is designed specifically for standard French diameters: 32, 40, 50, and 100 mm.<br/><br/>It is intended for drainage PVC only, not pressure PVC.</p>"
+            "content": "<p>The PVC reamer is designed specifically for standard diameters: 32, 40, 50, and 100 mm.<br/><br/>It is intended for drainage PVC only, not pressure PVC.</p>"
           }
         },
         "166442457738b23caf-2": {
