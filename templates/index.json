@@ -657,7 +657,7 @@
           "type": "item",
           "settings": {
             "title": "Which pipe diameters is it compatible with?",
-            "content": "<p>The PVC reamer is designed specifically for standard diameters: 32, 40, 50, and 100 mm.<br/><br/>It is intended for drainage PVC only, not pressure PVC.</p>"
+            "content": "<p>The PVC reamer is designed specifically for standard diameters: </p><p><strong>32mm (1-1/4\")</strong> - Kitchen sinks, dishwashers</p><ul><li><strong>40mm (1-1/2\")</strong> - Bathroom sinks, showers, bath waste</li><li><strong>50mm (2\")</strong> - Toilets, main drain lines</li></ul><p><strong>100mm (4\")</strong> - Main sewer and waste lines<br/><br/>It is intended for drainage PVC only, not pressure PVC.</p>"
           }
         },
         "166442457738b23caf-2": {
