@@ -320,6 +320,125 @@
         "text_color": ""
       }
     },
+    "featured_product_Kr38UW": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_MHHYmH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"main-product__block main-product__block-custom_liquid\"> <div class=\"m-product-text\"> <div class=\"product-info__liquid\"> <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\"> <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\"> <span class=\"text-size\">Rated <b>4.8/5</b> based on 3,380 reviews</span> </a> </div> </div> </div> </div> </div> </div> </div>"
+          }
+        },
+        "title_YJiXCh": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_XxtpJd": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_QCr7N3": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "text_GbDhAa": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✓ Massive time savings on every job</strong> - Seconds vs. 15-30 minutes with heat guns</p><p><strong>✓ Zero burn risk or toxic fumes</strong> - OSHA-compliant, safer for you and your crew</p><p><strong>✓ Meets plumbing code standards</strong> - Works with Schedule 40 PVC, CPVC, and ABS</p>"
+          }
+        },
+        "liquid_aJaX7W": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product__block product__block--custom_liquid\" style=\"margin-bottom: 25px;\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Only <span id=\"stock-count\">9</span> left in stock.</div>\n\n  <script>\n    function animerStock() {\n      let stockActuel = 9;\n      const stockFinal = 5;\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockActuel--;\n        elementStock.textContent = stockActuel;\n\n        if (stockActuel <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000);\n    }\n\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
+          }
+        },
+        "variant_picker_bbFThj": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_UNqaxX": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "rapi_bundles_rapi_bundle_wYVb3z": {
+          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "easycut-pro-pvc-reamer"
+          }
+        },
+        "buy_buttons_AN3AXH": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "collapsible_text_CV7xnk": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Customer Service 7/7",
+            "content": "<p><strong>Our team is available to answer your questions 7 days a week.</strong></p><p>You can contact us by email during the following hours: 9 AM – 5 PM, Monday through Sunday.</p><p><strong>hello@easycut-pro.com</strong></p><p>Don’t hesitate to get in touch.</p>",
+            "page": ""
+          }
+        },
+        "pickup_availability_ch4jN7": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_MHHYmH",
+        "title_YJiXCh",
+        "badges_XxtpJd",
+        "price_QCr7N3",
+        "text_GbDhAa",
+        "liquid_aJaX7W",
+        "variant_picker_bbFThj",
+        "quantity_selector_UNqaxX",
+        "rapi_bundles_rapi_bundle_wYVb3z",
+        "buy_buttons_AN3AXH",
+        "collapsible_text_CV7xnk",
+        "pickup_availability_ch4jN7"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "easycut-pro-pvc-reamer",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -402,6 +521,7 @@
         "collapsible_text_JLMrmR",
         "collapsible_text_iLKAFL"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "easycut-pro",
@@ -789,6 +909,7 @@
     "rich_text_jWzVki",
     "video_RYUkaq",
     "multi_column_q8Aw77",
+    "featured_product_Kr38UW",
     "featured-product",
     "rich_text_TFHLVQ",
     "image_link_blocks_Gg8yD3",
