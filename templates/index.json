@@ -397,7 +397,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "What's included",
-            "content": "<p><strong>EasyCut PRO Complete Kit with 4 Professional-Grade Reamers:</strong></p><p><strong>1-1/4\" Reamer</strong></p><ul><li>Ideal for: Bathroom sink drains, lavatory waste lines, secondary vents</li><li>Common applications: P-trap repairs, vanity drain replacements</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>1-1/2\" Reamer</strong></p><ul><li>Ideal for: Kitchen sinks, bathroom sinks, bathtub drains, dishwasher lines</li><li>Common applications: Most residential drain repairs, fixture replacements</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>2\" Reamer</strong></p><ul><li>Ideal for: Shower drains, toilet vents, washing machine drains, branch lines</li><li>Common applications: Bathroom renovations, secondary waste line repairs</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>4\" Reamer</strong></p><ul><li>Ideal for: Toilet flanges, main drains, sewer lines, primary waste stacks</li><li>Common applications: Toilet flange removal (most requested), main line repairs</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul>",
+            "content": "<p><strong>EasyCut PRO Complete Kit with 4 Professional-Grade Reamers:</strong></p><p><strong>1-1/4\" Reamer</strong></p><ul><li>Ideal for: Bathroom sink drains, lavatory waste lines, secondary vents</li><li>Common applications: P-trap repairs, vanity drain replacements</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>1-1/2\" Reamer</strong></p><ul><li>Ideal for: Ideal for: Kitchen sinks, bathroom sinks, bathtub drains, kitchen sink drains with dishwasher connection</li><li>Common applications: Most residential drain repairs, fixture replacements</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>2\" Reamer</strong></p><ul><li>Ideal for: Shower drains, toilet vents, washing machine drains, branch lines</li><li>Common applications: Bathroom renovations, secondary waste line repairs</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>4\" Reamer</strong></p><ul><li>Ideal for: Toilet flanges, main drains, sewer lines, primary waste stacks</li><li>Common applications: Toilet flange removal (most requested), main line repairs</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul>",
             "page": ""
           }
         },
@@ -788,7 +788,7 @@
           "type": "item",
           "settings": {
             "title": "Which pipe diameters is it compatible with?",
-            "content": "<p>The PVC reamer is designed specifically for standard diameters: </p><ul><li><strong>32mm (1-1/4\")</strong> - Kitchen sinks, dishwashers</li><li><strong>40mm (1-1/2\")</strong> - Bathroom sinks, showers, bath waste</li><li><strong>50mm (2\")</strong> - Toilets, main drain lines</li><li><strong>100mm (4\")</strong> - Main sewer and waste lines<br/><br/>It is intended for drainage PVC only, not pressure PVC.</li></ul>"
+            "content": "<p>The PVC reamer is designed specifically for standard diameters: </p><ul><li><strong>1-1/4\"</strong> - Sink drains, lavatory lines, vents</li><li><strong>1-1/2\"</strong> - Kitchen/bathroom sinks, bathtub drains</li><li><strong>2\"</strong> - Shower drains, toilet vents, branch lines</li><li><strong>4\"</strong> - Toilet flanges, main drains, sewer lines</li></ul><p>It is intended for drainage PVC only, not pressure PVC.</p>"
           }
         },
         "166442457738b23caf-2": {
