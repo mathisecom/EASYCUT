@@ -822,8 +822,8 @@
         "item_CwUezK": {
           "type": "item",
           "settings": {
-            "title": "Is the product certified?",
-            "content": "<p>Yes, it is RoHS Compliant, SGS-tested, CE-approved, and made with ISO/GB-T certified materials.</p>"
+            "title": "Is the product safe and compliant?",
+            "content": "<p>Yes. The EasyCut PRO is made from heat-treated steel with quality-tested components. It's designed to work safely with Schedule 40 PVC, CPVC, and ABS pipe systems standard in US plumbing. As a mechanical cutting tool, it provides an OSHA-compliant alternative to hazardous heat guns.</p>"
           }
         },
         "item_tydQGK": {
@@ -842,6 +842,7 @@
         },
         "item_Vg6Vnt": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Can it be used in hard-to-reach areas?",
             "content": "<p>Yes. The deburrer comes with an angle adapter, allowing easy work in corners, under sinks, or behind furniture without dismantling the installation.</p>"
@@ -851,7 +852,7 @@
           "type": "item",
           "settings": {
             "title": "Does the tool also work on large diameters?",
-            "content": "<p>Absolutely.<br/><br/>The entire EASYCUT PRO range uses three carbide blades designed for faster, smoother cutting.<br/><br/>This design makes the tool just as effective on large diameters, up to 100 mm, with no extra effort.</p>"
+            "content": "<p>Absolutely.<br/><br/>The entire EASYCUT PRO range uses three carbide blades designed for faster, smoother cutting.<br/><br/>This design makes the tool just as effective on large diameters, up to 4\", with no extra effort.</p>"
           }
         }
       },
