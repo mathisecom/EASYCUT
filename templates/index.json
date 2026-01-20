@@ -391,6 +391,16 @@
             "payment_button_text_color": ""
           }
         },
+        "collapsible_text_T7twpf": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "What's included",
+            "content": "<p><strong>EasyCut PRO Complete Kit with 4 Professional-Grade Reamers:</strong></p><p><strong>1-1/4\" Reamer</strong></p><ul><li>Ideal for: Bathroom sink drains, lavatory waste lines, secondary vents</li><li>Common applications: P-trap repairs, vanity drain replacements</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>1-1/2\" Reamer</strong></p><ul><li>Ideal for: Kitchen sinks, bathroom sinks, bathtub drains, dishwasher lines</li><li>Common applications: Most residential drain repairs, fixture replacements</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>2\" Reamer</strong></p><ul><li>Ideal for: Shower drains, toilet vents, washing machine drains, branch lines</li><li>Common applications: Bathroom renovations, secondary waste line repairs</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul><p><strong>4\" Reamer</strong></p><ul><li>Ideal for: Toilet flanges, main drains, sewer lines, primary waste stacks</li><li>Common applications: Toilet flange removal (most requested), main line repairs</li><li>Pipe standard: Schedule 40 PVC/CPVC/ABS</li></ul>",
+            "page": ""
+          }
+        },
         "collapsible_text_CV7xnk": {
           "type": "collapsible_text",
           "settings": {
@@ -417,6 +427,7 @@
         "quantity_selector_UNqaxX",
         "rapi_bundles_rapi_bundle_wYVb3z",
         "buy_buttons_AN3AXH",
+        "collapsible_text_T7twpf",
         "collapsible_text_CV7xnk",
         "pickup_availability_ch4jN7"
       ],
